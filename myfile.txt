@@ -1,0 +1,1130 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<meta content="width=device-width, initial-scale=1, minimum-scale=1" name="viewport"/>
+<title>University of Engineering and Technology Taxila</title>
+<script src="/cdn-cgi/apps/head/1dipVnQI2qSc3pK1UmeyX0eyUt0.js"></script><link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300italic,400,400italic,600,600italic,700,700italic,800,800italic" rel="stylesheet" type="text/css"/>
+<link href="https://fonts.googleapis.com/css?family=Raleway:100,200,300,400,500,600,700,800,900" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/reset.css" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/style.css?s=11" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/uetautomated.css?s=8" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/font-awesome/css/font-awesome.min.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/responsive-leyouts.css" media="screen" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/colors/darkred.css?b=13" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/bg-patterns/pattern-ten.css?s=1" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/mainmenu/stickytwo.css?s=2" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/mainmenu/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/mainmenu/demo.css?a=2" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/mainmenu/menu.css" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/masterslider/style/masterslider.css?s=4" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/masterslider/skins/default/style.css?s=1" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/masterslider/style.css?s=4" rel="stylesheet" type="text/css"/>
+<link href="/css/bootstrap-theme.css" rel="stylesheet"/>
+<link href="/cssuetauto/tabs/assets/css/responsive-tabs3.css" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/carousel/skin.css" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/accordion/accordion.css" media="all" rel="stylesheet" type="text/css"/>
+<link href="/cssuetauto/firstvisitpopup.css?s=2" rel="stylesheet" type="text/css"/>
+<link href="/css/toastr.css" rel="stylesheet"/>
+<script src="/jsuetauto/universal/jquery.js" type="text/javascript"></script>
+<script src="/jsuetauto/masterslider/jquery.easing.min.js" type="text/javascript"></script>
+<script src="/jsuetauto/masterslider/masterslider.min.js" type="text/javascript"></script>
+<script src="/jsuetauto/bootstrap.min.js" type="text/javascript"></script>
+<script src="/jsuetauto/tabs/assets/js/responsive-tabs.min.js" type="text/javascript"></script>
+<script src="/jsuetauto/accordion/custom.js" type="text/javascript"></script>
+<script src="/jsuetauto/jquery.firstVisitPopup.js?s=1" type="text/javascript"></script>
+<script src="/jsuetauto/uetautomated.js?s=10" type="text/javascript"></script>
+<script src="/js/toastr.js"></script>
+</head>
+<body>
+<div class="site_wrapper">
+<header id="header">
+<div class="wrapper">
+<div class="logoarea row" style="margin: 0px">
+<div class="container">
+<div class="col-md-6 col-sm-12 col-xs-12">
+<div class="col-md-2 col-sm-12 col-xs-12 logodiv" style="text-align: center">
+<a href="/" id="logo" title="Home">
+<img alt="Logo" class="logo-img" src="/images/Logos/uettaxila_logo.png"/>
+</a>
+</div>
+<div class="col-md-10 col-sm-12 col-xs-12 logo-text" style="margin-top: 15px;">
+<span class="logoacronymtext">UET Taxila</span><br/>
+<span class="logofulltext">University of Engineering and Technology, Taxila</span>
+</div>
+</div>
+<div class="col-md-6 col-sm-12 col-xs-12 right_links">
+<ul class="row center" style="width: 100%">
+<li class="link col-md-3 col-sm-3 col-xs-6"><a class="bordered" href="http://erp.uettaxila.edu.pk/" target="_blank">ERP Application</a></li>
+<li class="link col-md-3 col-sm-3 col-xs-6"><a class="bordered" href="https://aka.ms/devtoolsforteaching" target="_blank">Licensed Software</a></li>
+<li class="link col-md-3 col-sm-3 col-xs-6"><a class="bordered" href="http://helpdesk.uettaxila.edu.pk" target="_blank">Help Desk</a></li>
+<li class="link col-md-3 col-sm-3 col-xs-6">
+<a class="bordered" href="https://portal.microsoftonline.com/default.aspx" target="_blank">
+<span><img src="/images/Logos/O365Mail.jpg" style="margin-top: 5px;"/></span>
+</a>
+</li>
+<li style="display: none">
+<div class="weatherdata">
+<a href="https://web.uettaxila.edu.pk/Weather_Data">
+<span style="color: #fff; font-size: 16px; display: block">
+<img alt="" height="29" src="/images/MainPage/weatherData.png" style="vertical-align: middle" width="28"/>Weather Data
+</span>
+</a>
+</div>
+</li>
+</ul>
+</div>
+</div>
+</div>
+<div class="menu_main" style="clear: both">
+<div class="container">
+<div class="navbar yamm navbar-default">
+<div class="container">
+<div class="navbar-header">
+<div class="navbar-toggle .navbar-collapse .pull-right" data-target="#navbar-collapse-1" data-toggle="collapse">
+<span>Menu</span>
+<button type="button"><i class="fa fa-bars"></i></button>
+</div>
+</div>
+<div class="navbar-collapse collapse" id="navbar-collapse-1">
+<ul class="nav navbar-nav">
+<li><a class="active" href="/">Home</a></li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">About</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>About</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuAbout.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Overview</p>
+</li>
+<li><a href="/AboutUs"><i class="fa fa-angle-right"></i>About UET Taxila</a></li>
+<li><a href="/Mission_Vision"><i class="fa fa-angle-right"></i>Vision, Mission &amp; Core Values</a></li>
+<li><a href="/Rules"><i class="fa fa-angle-right"></i>Rules, Regulations &amp; Statutes</a></li>
+<li><a href="/Womenact"><i class="fa fa-angle-right"></i>Women Harassment Act 2010</a></li>
+<li><a href="/CodeofConduct"><i class="fa fa-angle-right"></i>Code of Conduct Peace &amp; Security</a></li>
+<li><a href="/Budget"><i class="fa fa-angle-right"></i>Budget</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Administrative Bodies</p>
+</li>
+<li><a href="/Syndicate.aspx"><i class="fa fa-angle-right"></i>Syndicate</a></li>
+<li><a href="/AcademicCouncil.aspx"><i class="fa fa-angle-right"></i>Academic Council</a> </li>
+<li><a href="/SelectionBoard.aspx"><i class="fa fa-angle-right"></i>Selection Board</a></li>
+<li><a href="/BoardofFaculties.aspx"><i class="fa fa-angle-right"></i>Board of Faculties</a></li>
+<li><a href="/BoardofStudies.aspx"><i class="fa fa-angle-right"></i>Board of Studies</a> </li>
+<li><a href="/MinutesofMeetings.aspx"><i class="fa fa-angle-right"></i>Minutes of Meetings</a> </li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Administration</p>
+</li>
+<li><a href="/Leadership.aspx"><i class="fa fa-angle-right"></i>Leadership &amp; Core Team</a></li>
+<li><a href="/VCOffice.aspx"><i class="fa fa-angle-right"></i>Vice Chancellor's Office</a> </li>
+<li><a href="/RegistrarOffice.aspx"><i class="fa fa-angle-right"></i>Registrar Office</a> </li>
+<li><a href="/TreasurerOffice.aspx"><i class="fa fa-angle-right"></i>Treasurer Office</a> </li>
+<li><a href="/NARC.aspx"><i class="fa fa-angle-right"></i>NARC Office</a> </li>
+<li><a href="/ControllerExamOffice.aspx"><i class="fa fa-angle-right"></i>Controller of Examinations Office</a> </li>
+<li><a href="/PDOffice.aspx"><i class="fa fa-angle-right"></i>Planning &amp; Development Office</a> </li>
+<li><a href="/EstateOffice.aspx"><i class="fa fa-angle-right"></i>Estate Office</a> </li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="/#">Admissions</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Admissions</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuAdmissions.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Programs</p>
+</li>
+<li><a href="/UGprogram.aspx"><i class="fa fa-angle-right"></i>Undergraduate Programs</a></li>
+<li><a href="/PGprogram.aspx"><i class="fa fa-angle-right"></i>Graduate/Post Graduate</a></li>
+<li><a href="/PhDprogram.aspx"><i class="fa fa-angle-right"></i>Doctoral</a></li>
+<li><a href="/Certifications.aspx"><i class="fa fa-angle-right"></i>Certifications</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Procedures</p>
+</li>
+<li><a href="http://admissions.uettaxila.edu.pk/ProcedureAndRequirements.php"><i class="fa fa-angle-right"></i>How to Apply</a> </li>
+<li><a href="http://admissions.uettaxila.edu.pk/My_UET.php"><i class="fa fa-angle-right"></i>Online Admissions</a> </li>
+<li><a href="http://admissions.uettaxila.edu.pk/Seats_Allocation.php"><i class="fa fa-angle-right"></i>Categories &amp; Seats</a> </li>
+<li><a href="http://admissions.uettaxila.edu.pk/Fees.php"><i class="fa fa-angle-right"></i>Fee</a> </li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Information</p>
+</li>
+<li><a href="http://admissions.uettaxila.edu.pk/Merit_List.php"><i class="fa fa-angle-right"></i>Merit Lists</a></li>
+<li><a href="/MigrationRules.aspx"><i class="fa fa-angle-right"></i>Migration Rules</a></li>
+<li><a href="http://admissions.uettaxila.edu.pk"><i class="fa fa-angle-right"></i>Admission Notices</a></li>
+<li><a href="http://admissions.uettaxila.edu.pk/Schedule.php"><i class="fa fa-angle-right"></i>Admission Schedule</a></li>
+<li><a href="http://admissions.uettaxila.edu.pk/ProcedureAndRequirements2.php"><i class="fa fa-angle-right"></i>Entry Test</a></li>
+<li><a href="https://web.uettaxila.edu.pk/UndergraduateProspectus"><i class="fa fa-angle-right"></i>Undergraduate Prospectus</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Academics</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Academics</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuAcademics.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main Links</p>
+</li>
+<li><a href="/AcademicHeads.aspx"><i class="fa fa-angle-right"></i>Academic Heads</a></li>
+<li><a href="/Departments.aspx"><i class="fa fa-angle-right"></i>Departments</a></li>
+<li><a href="/Programs.aspx"><i class="fa fa-angle-right"></i>Programs</a></li>
+<li><a href="https://web.uettaxila.edu.pk/iat/index.asp"><i class="fa fa-angle-right"></i>Institute of Applied Technologies</a></li>
+<li><a href="/AcademicSchedule.aspx"><i class="fa fa-angle-right"></i>Academic Schedule</a></li>
+<li><a href="http://erp.uettaxila.edu.pk/"><i class="fa fa-angle-right"></i>ERP Application</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Faculties</p>
+</li>
+<li><a href="/Faculty/FBSH.aspx"><i class="fa fa-angle-right"></i>Basic Sciences &amp; Humanities</a> </li>
+<li><a href="/Faculty/FCEE.aspx"><i class="fa fa-angle-right"></i>Civil &amp; Environmental Engineering</a> </li>
+<li><a href="/Faculty/FEEE.aspx"><i class="fa fa-angle-right"></i>Electronics &amp; Electrical Engineering</a> </li>
+<li><a href="/Faculty/FMAE.aspx"><i class="fa fa-angle-right"></i>Mechanical &amp; Aeronautical Engineering</a> </li>
+<li><a href="/Faculty/FTIE.aspx"><i class="fa fa-angle-right"></i>Telecom &amp; Information Engineering</a> </li>
+<li><a href="/Faculty/FIE.aspx"><i class="fa fa-angle-right"></i>Industrial Engineering</a> </li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Information</p>
+</li>
+<li><a href="http://lms.uettaxila.edu.pk/"><i class="fa fa-angle-right"></i>LMS Portal</a></li>
+<li><a href="/internationallinkages.aspx"><i class="fa fa-angle-right"></i>International Linkages</a></li>
+<li><a href="/AcademicCalendar.aspx"><i class="fa fa-angle-right"></i>Academic Calendar</a></li>
+<li><a href="http://admissions.uettaxila.edu.pk/Merit_List.php"><i class="fa fa-angle-right"></i>Merit Lists</a></li>
+<li><a href="https://dlsei.hec.gov.pk/"><i class="fa fa-angle-right"></i> Digital Learning &amp; Skills Enrichment</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Research</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Research</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuResearch.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Research Office</p>
+</li>
+<li><a href="/ORIC.aspx"><i class="fa fa-angle-right"></i>ORIC</a></li>
+<li><a href="/ASRTD.aspx"><i class="fa fa-angle-right"></i>ASR &amp; TD</a></li>
+<li><a href="http://tj.uettaxila.edu.pk/index.php/technical-journal"><i class="fa fa-angle-right"></i>Technical Journal</a></li>
+<li><a href="https://cpec-centre.pk"><i class="fa fa-angle-right"></i>CoE-CPEC </a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Research &amp; Projects</p>
+</li>
+<li><a href="http://publications.uettaxila.edu.pk/"><i class="fa fa-angle-right"></i>Research &amp; Publications</a></li>
+<li><a href="#"><i class="fa fa-angle-right"></i>Research Grants</a></li>
+<li><a href="/PageContents/ASRTD/Faculty_Research_grants_finacial_year_14-15.doc"><i class="fa fa-angle-right"></i>Under Implementation</a> </li>
+<li><a href="/PageContents/ASRTD/Faculty_Research_grants_finacial_year_15-16 .doc"><i class="fa fa-angle-right"></i>Approved for Year 2015-16</a> </li>
+<li><a href="/PageContents/ASRTD/Factulty_Research_Proposal_Performa.doc"><i class="fa fa-angle-right"></i>Forms &amp; Guidelines</a> </li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>HEC Databases</p>
+</li>
+<li><a href="/HECDatabases.aspx"><i class="fa fa-angle-right"></i>HEC Databases</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Life at UET</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>At UET Taxila</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuLifetUETT.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Activities</p>
+</li>
+<li><a href="/Sports.aspx"><i class="fa fa-angle-right"></i>Sports</a></li>
+<li><a href="/LiteraryOlympaid2015.aspx"><i class="fa fa-angle-right"></i>Activities at UET</a></li>
+<li><a href="/UETsub/bloodDonorSociety.htm"><i class="fa fa-angle-right"></i>Rashid Cheema Blood Donorâ€™s Society</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main Events</p>
+</li>
+<li><a href="/Events/Conference"><i class="fa fa-angle-right"></i>Conferences</a></li>
+<li><a href="/Events/Workshop"><i class="fa fa-angle-right"></i>Workshops</a> </li>
+<li><a href="/Events/CEOtalk"><i class="fa fa-angle-right"></i>CEO Talks</a> </li>
+<li><a href="/Events/Convocation"><i class="fa fa-angle-right"></i>Convocations</a> </li>
+<li><a href="/Events/Seminar"><i class="fa fa-angle-right"></i>Seminars</a> </li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>On Campus Facilities</p>
+</li>
+<li><a href="/Library.aspx"><i class="fa fa-angle-right"></i>Library</a></li>
+<li><a href="/Cafeteria.aspx"><i class="fa fa-angle-right"></i>Cafeterias</a></li>
+<li><a href="/Hostels.aspx"><i class="fa fa-angle-right"></i>Hostels</a></li>
+<li><a href="/MedicalFacilities.aspx"><i class="fa fa-angle-right"></i>Medical Center</a></li>
+<li><a href="/Transport.aspx"><i class="fa fa-angle-right"></i>Transport</a> </li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Advertisements</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Advertisements</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuAdvertisement.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Posts Vacant</p>
+</li>
+<li><a href="https://web.uettaxila.edu.pk/OR/postsVacant.asp"><i class="fa fa-angle-right"></i>Admin Positions</a></li>
+<li><a href="https://web.uettaxila.edu.pk/OR/postsVacant.asp"><i class="fa fa-angle-right"></i>Faculty Positions</a></li>
+<li><a href="https://web.uettaxila.edu.pk/OR/postsVacant.asp"><i class="fa fa-angle-right"></i>Staff Required</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Tenders</p>
+</li>
+<li><a href="/Tenders"><i class="fa fa-angle-right"></i>Central Purchase Committee</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Tenders/Pre-Qualification</p>
+</li>
+<li><a href="https://web.uettaxila.edu.pk/BWD/tenders.asp#tenders"><i class="fa fa-angle-right"></i>Building &amp; Works</a></li>
+<li style="display: none"><a href="https://web.uettaxila.edu.pk/BWD/downloadFilesAdvertisement-Pre Qualification-Notice.pdf" target="_blank"><i class="fa fa-angle-right"></i>Advertisement for Constructors Pre-Qualification</a></li>
+<li style="display: none"><a href="https://web.uettaxila.edu.pk/BWD/downloadFiles/Constructor Prequalification Document.pdf" target="_blank"><i class="fa fa-angle-right"></i>Pre-Qualification Document for Constructors</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Projects</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Development Projects</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuSubCampus.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p style="font-size: 13px;">Strengthening and UpGradation of UET Taxila and its Sub Campus</p>
+</li>
+<li><a href="/SAUG.aspx"><i class="fa fa-angle-right"></i>300-Boys Hostel</a></li>
+<li><a href="/SAUG.aspx"><i class="fa fa-angle-right"></i>Combined Academic Block</a></li>
+<li><a href="/SAUG.aspx"><i class="fa fa-angle-right"></i>Overhead/ Underground Water Tank</a></li>
+<li><a href="/SAUG.aspx"><i class="fa fa-angle-right"></i>Sewerage &amp; Disposal</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p style="font-size: 13px;">Provision of Basic Infrastructure &amp; Establishment of Telecom Engg. Dept.</p>
+</li>
+<li><a href="/PBET.aspx"><i class="fa fa-angle-right"></i>About Project</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Main Sites</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main Sites</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuAbout.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Sub-Campuses</p>
+</li>
+<li><a href="#"><i class="fa fa-angle-right"></i>Sub-Campus PD Khan</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main Sites</p>
+</li>
+<li><a href="http://e-filing.uettaxila.edu.pk/"><i class="fa fa-angle-right"></i>File Tracking System</a></li>
+<li><a href="https://web.uettaxila.edu.pk/OR/index.asp?pageLink=link_A#a"><i class="fa fa-angle-right"></i>Registrar Office</a></li>
+<li><a href="http://tj.uettaxila.edu.pk/index.php/technical-journal"><i class="fa fa-angle-right"></i>Technical Journal</a></li>
+<li><a href="https://web.uettaxila.edu.pk/qec/aboutQEC.htm"><i class="fa fa-angle-right"></i>Quality Enhancement Cell</a></li>
+<li><a href="https://web.uettaxila.edu.pk/BWD/index.asp"><i class="fa fa-angle-right"></i>Building and Works</a></li>
+<li><a href="https://web.uettaxila.edu.pk/PDD/index.asp"><i class="fa fa-angle-right"></i>Planning &amp; Development</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main Sites</p>
+</li>
+<li><a href="http://mis.uettaxila.edu.pk/Alumni/"><i class="fa fa-angle-right"></i>Alumni UET Taxila</a></li>
+<li><a href="https://web.uettaxila.edu.pk/ieee/index.html"><i class="fa fa-angle-right"></i>IEEE Student Branch</a></li>
+<li><a href="http://uettaxila.rozee.pk/"><i class="fa fa-angle-right"></i>Career Development</a></li>
+<li><a href="/CenterSocialEntrepreneurship.aspx"><i class="fa fa-angle-right"></i>Center for Social Entrepreneurship</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Examinations</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Examinations</p>
+</li>
+<li>
+<img alt=" " class="img_left4" src="/images/Menu/menuExamination.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Main</p>
+</li>
+<li><a href="/Examinations.aspx"><i class="fa fa-angle-right"></i>Introduction</a></li>
+<li><a href="/ControllerExamOffice.aspx"><i class="fa fa-angle-right"></i>Controller of Examinations</a></li>
+<li><a href="/AcademicCalendar.aspx"><i class="fa fa-angle-right"></i>Academic Calendar</a></li>
+<li><a href="/Events/Convocation.aspx"><i class="fa fa-angle-right"></i>Convocations</a></li>
+<li style="display: none"><a href="https://web.uettaxila.edu.pk/ExaminationsNews.asp"><i class="fa fa-angle-right"></i>News</a></li>
+<li><a href="/DownloadExaminationForms"><i class="fa fa-angle-right"></i>Downloads (Forms/Formats)</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Result Notification</p>
+</li>
+<li><a href="/Examinations/Results"><i class="fa fa-angle-right"></i>Result BSc Engineering</a></li>
+<li><a href="/Examinations/Results"><i class="fa fa-angle-right"></i>Result MSc/MS/PhD</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Date Sheets</p>
+</li>
+<li>
+<a href="/Examinations/Results"><i class="fa fa-angle-right"></i>Date Sheet BSc Engineering</a>
+</li>
+<li>
+<a href="/Examinations/Results"><i class="fa fa-angle-right"></i>Date Sheet MSc/MS/PhD</a>
+</li>
+<li><a href="/ExamsFAQ.aspx" style="font-size: 1.1em; font-weight: bold;"><i class="fa fa-angle-right"></i>Exams FAQs</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a class="dropdown-toggle" data-toggle="dropdown" href="#">Contact</a>
+<ul class="dropdown-menu">
+<li>
+<div class="yamm-content">
+<div class="row">
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Contact Information</p>
+</li>
+<li>
+<img alt="" class="img_left4" src="/images/Menu/menuContact.jpg"/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+</li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Directory</p>
+</li>
+<li><a href="/TelephoneDirectory.aspx"><i class="fa fa-angle-right"></i>Telephone Directory</a></li>
+</ul>
+<ul class="col-sm-6 col-md-3 list-unstyled">
+<li>
+<p>Map</p>
+</li>
+<li><a href="/ContactUs.aspx"><i class="fa fa-angle-right"></i>Google Map</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</li>
+<li class="dropdown yamm-fw">
+<a href="/RTI">RTI</a>
+</li>
+<li class="dropdown yamm-fw">
+<a href="/Home/Downloads">Downloads</a>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<style type="text/css">
+    #toast-container > div {
+        opacity: 1 !important;
+    }
+</style>
+<script type="text/javascript">
+    $(document).ready(function () {
+        var content = "<div >Digital Learning & Skills Enrichment</div><br><div><a href='https://dlsei.hec.gov.pk/' style='text-decoration: underline; font-size: 12px; float: right;'>Read More ...</a></div>";
+        
+        toastr.options = {
+            "closeButton": true,
+            "debug": false,
+            "newestOnTop": false,
+            "progressBar": false,
+            "positionClass": "toast-top-right",
+            "preventDuplicates": false,
+            "onclick": null,
+            "timeOut": 10000,
+            "extendedTimeOut": 0,
+            "showEasing": "swing",
+            "hideEasing": "linear"
+        }
+
+        toastr["info"](content);
+    });
+</script>
+<div class="welcome-message-admission" id="welcome-message-admission">
+<h3> </h3>
+<div><h2>Undergraduate Admissions-2023</h2> <div class="col-sm-12"><span style="color: darkred;font-size: 14pt;font-weight: bold;">Applications are invited for all undergraduate programs of the university from eligible candidates as per defined criteria. <a href="https://admissions.uettaxila.edu.pk/" style="    background-color: white; color: cornflowerblue; text-decoration: underline; font-size: 1.4em;">Click here</a> for further details </span></div> </div>
+</div>
+<div class="container_full slidertop" style="max-width: 1600px; display: inline; float: none">
+<div class="master-slider ms-skin-default myslider" id="MainSlider">
+<div class="ms-slide slide-1" data-delay="6">
+<img alt="" data-src="/images/MainSlider//20-07-2023_001.jpg?random=638289285875542312" src="/js/masterslider/blank.gif"/>
+<h1 class="ms-layer stext4" data-delay="400" data-duration="900" data-ease="easeOutExpo" data-effect="bottom(40)" data-type="text" style="left: 100px; bottom: 30px;">
+<a href="https://web.uettaxila.edu.pk/EventDetails/Inauguration-of-leftover-work-of-Petroleum-Engineering-at-Balkasar-by-Prof.-Dr.-Qaiser-uz-Zaman-Khan-VC-UET-Taxila">Inauguration of leftover work of Petroleum Engineering at Balkasar by Prof. Dr. Qaiser uz Zaman Khan VC UET Taxila</a>
+</h1>
+</div>
+<div class="ms-slide slide-2" data-delay="6">
+<img alt="" data-src="/images/MainSlider//23-02-2023_20thConvocation2023.jpg?random=638289285875542312" src="/js/masterslider/blank.gif"/>
+<h1 class="ms-layer stext4" data-delay="400" data-duration="900" data-ease="easeOutExpo" data-effect="bottom(40)" data-type="text" style="left: 100px; bottom: 30px;">
+<a href="https://web.uettaxila.edu.pk/EventDetails/20th-Convocation-2023">20th Convocation 2023</a>
+</h1>
+</div>
+<div class="ms-slide slide-3" data-delay="6">
+<img alt="" data-src="/images/MainSlider//22-02-2023_NEH.jpg?random=638289285875542312" src="/js/masterslider/blank.gif"/>
+<h1 class="ms-layer stext4" data-delay="400" data-duration="900" data-ease="easeOutExpo" data-effect="bottom(40)" data-type="text" style="left: 100px; bottom: 30px;">
+<a href="https://web.uettaxila.edu.pk/IE/news52.asp">Prof. Muhammad Nawaz Speech on NEH application in various Engineering disciplines and fields</a>
+</h1>
+</div>
+<div class="ms-slide slide-4" data-delay="6">
+<img alt="" data-src="/images/MainSlider//04-02-2022_DLSEI-Main-Page.jpg?random=638289285875542312" src="/js/masterslider/blank.gif"/>
+<h1 class="ms-layer stext4" data-delay="400" data-duration="900" data-ease="easeOutExpo" data-effect="bottom(40)" data-type="text" style="left: 100px; bottom: 30px;">
+<a href="https://web.uettaxila.edu.pk/dlsei">Digital Learning and Skill Enrichment Initiative</a>
+</h1>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="features_sec18" style="background-color: #FFF;">
+<div class="container">
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="https://web.uettaxila.edu.pk/NationalExpansionPlanNICTaxila5thCohort" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">National Expansion Plan of NIC #Taxila is all set for its 5th Cohort</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">29-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="javascript:void()" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Notice for M.Sc. and PhD Admission 2023 (Extension of Application submission date)</span></a>
+<span class="linktext">Application submission date has been extended till 30th August 2023 before the starting of entry test. <br/>
+Note: Application fee must be submitted before 30th August-2023. Without fee submission no application will be accepted.</span>
+</h5>
+</div>
+<div class="divdate">29-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="https://web.uettaxila.edu.pk/pgadmissions" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Post Graduate Admission Fall-2023 </span></a>
+<span class="linktext">For Entry Test Structure and Guidelines <a href="https://web.uettaxila.edu.pk/pgadmissions" style=" background-color: white; color: cornflowerblue; text-decoration: underline; font-size: 1.4em;" target="_blank">Click here</a></span>
+</h5>
+</div>
+<div class="divdate">28-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/PG Eligibility.jpg" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Eligibility of CGPA for PhD/MSc/MS Admissions Fall-2023</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">25-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/PhD-FinalExamination-PhD-ME-94.jpg" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">PhD Final Examination (Zeeshan Anjum 2015-UET/PhD-ME-94)</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">22-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/NoticeforChequesReceiving-15-08-2023(IEP-SAC).pdf" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Notice IEP - SAC Scholarship</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">15-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/Notice for Cheques Receiving dt. 15-08-2023.pdf" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Notice - Professional Education Foundation (PEF) Scholarship</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">15-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/House-Allotment-Notice-11-August-2023.jpg" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">House Allotment Notice</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">11-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/Hostel Allotment of New Entry (2023 Batch).pdf" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Hostel Allotment Notice (new entry i.e., 2023 batch) male and female candidates</span></a>
+<span class="linktext">To download application form <a href="http://web.uettaxila.edu.pk/PageContents/Hostels/Allotment Form 2023 Boys Girls.pdf" style=" background-color: white; color: cornflowerblue; text-decoration: underline; font-size: 1.4em;" target="_blank">Click here</a></span>
+</h5>
+</div>
+<div class="divdate">07-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="javascript:void()" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Upgradation of Email Domain</span></a>
+<span class="linktext"><div style="text-align: justify">The UET Taxila is pleased to announce that the <strong>migration</strong> of passed out (alumni) student <strong>email accounts</strong> from <strong>@students.uettaxila.edu.pk</strong> to the new <strong>@alumni.uettaxila.edu.pk</strong> domain is currently underway. As part of this process, we are pleased to confirm that students can access their mailbox, OneDrive, and other data without any disruption, ensuring a seamless transition with the <strong>same previous password</strong>.</div>
+<div style="text-align: justify">For any queries or assistance related to the migration process, alumni can reach out to the Alumni Affairs Office at <strong><a class="__cf_email__" data-cfemail="e6878a938b888fa693839292879e8f8a87c8838293c8968d" href="/cdn-cgi/l/email-protection">[email protected]</a>. or <a class="__cf_email__" data-cfemail="056b6477664570607171647d6c69642b6061702b756e" href="/cdn-cgi/l/email-protection">[email protected]</a></strong></div></span>
+</h5>
+</div>
+<div class="divdate">07-08-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="downloadFiles/VC Notification 26-06-2023.pdf" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Notification - Vice Chancellor</span></a>
+<span class="linktext"></span>
+</h5>
+</div>
+<div class="divdate">26-06-2023</div>
+</div>
+<div class="newsdiv">
+<div class="textdiv">
+<h5>
+<a href="https://admissions.uettaxila.edu.pk/" target="_blank"><img src="../images/icon_new_homepage.gif" style="float: left;"/><span class="linktitle" style="display: inline">Undergraduate Admissions-2023</span></a>
+<span class="linktext">Applications are invited for all undergraduate programs of the university from eligible candidates as per defined criteria. <a href="https://admissions.uettaxila.edu.pk/" style=" background-color: white; color: cornflowerblue; text-decoration: underline; font-size: 1.4em;">Click here</a> for further details</span>
+</h5>
+</div>
+<div class="divdate">18-04-2023</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="fusection8">
+<div class="container">
+<div style="display: none">
+<div class="one_fourth animate" data-anim-delay="200" data-anim-type="fadeIn">
+<h3>News Highlights</h3>
+<br/>
+<table border="0" cellpadding="0" cellspacing="10" style="height: 356px; width: 100%; background-color: #FFF; border: 1px solid #e0e0e0;">
+<tr>
+<td>
+<marquee direction="up" height="338px" onmouseout="this.start()" onmouseover="this.stop()" scrollamount="1" scrolldelay="60">
+<ul class="recentnews">
+<li>
+<ul class="recent_posts_list">
+</ul>
+</li>
+</ul>
+</marquee>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<div class="one_half animate" data-anim-delay="250" data-anim-type="fadeIn">
+<h3 style="color: #f9f9f9;">Main Docs</h3>
+<br/>
+<ul class="tabs3">
+<li><a href="#example-3-tab-1" target="_self">Technical Journal</a></li>
+<li><a href="#example-3-tab-2" target="_self">Prospectus</a></li>
+<li><a href="#example-3-tab-3" target="_self">Magazines</a></li>
+</ul>
+<div class="tabs-content3 two">
+<div class="tabs-panel3" id="example-3-tab-1">
+<img alt="" class="img_left2" src="images/MainPage/MainDocs/TechnicalJournal.jpg">
+<p>
+<strong>ISSN: 1813 - 1786 (Print); 2313-7770 (Online)</strong> <strong>[<a href="http://tj.uettaxila.edu.pk/index.php/technical-journal">Go to website</a>]</strong><br/>
+<strong>Indexed with:</strong><br/>
+&gt;&gt; PASTIC SCIENCE ABSTRACTS
+<br/>
+&gt;&gt; AGRIS DATABASE
+<br/>
+&gt;&gt; ProQuest Products
+<br/>
+&gt;&gt; EBSCO Databases
+<br>
+and 19 other HEC approved indexing and abstracting agencies.
+<br/>
+<strong>Review Type:</strong> Peer Review
+<br/>
+<strong>Frequency: </strong>Quarterly
+<br>
+<strong>Publication charges: Free of cost </strong>
+<br/>
+<br/>
+<strong>Aim &amp; Scope:</strong>Technical journal is a multidisciplinary journal in the field of engineering science and technology that offers platform for researchers, engineers and scientists to publish their original and to date research of high scientific value.
+</br></br></p>
+</img></div>
+<div class="tabs-panel3" id="example-3-tab-2">
+<p>
+Download Proscpectus for Postgraduate Programs.
+<br/>
+&gt;&gt; <a href="/Downloads/PGAdmissions/Prospectus-PG-2021-onwards.pdf" target="_blank">Postgraduate Prospectus 2021 onwards</a>
+<br/>
+<br/>
+Download Proscpectus for Undergraduate Programs.
+<br/>
+&gt;&gt; <a href="https://admissions.uettaxila.edu.pk/Downloads/Prospectus2022.pdf" target="_blank">Undergraduate Prospectus 2022</a>
+</p>
+</div>
+<div class="tabs-panel3" id="example-3-tab-3">
+<img alt="" class="img_left2" src="images/MainPage/MainDocs/mags.gif">
+<p>
+<strong>UET Taxila Year Book 2014</strong><br/>
+- <a href="http://web.uettaxila.edu.pk/uetSub/YearBook_2014.htm" target="_blank">Click here to Download Files</a><br/>
+- Part 1 - Page 1-41<br/>
+- Part 2 - Page 41-80<br/>
+- Part 3-Page 81-121<br/>
+<br/>
+<strong>ALMOHANDIS 2014</strong><br/>
+- <a href="Almohandis.aspx" target="_blank">
+Click
+here to Download Files
+</a><br/>
+- Urdu Version and - English Version<br/>
+</p>
+</img></div>
+</div>
+</div>
+<div class="one_fourth last animate" data-anim-delay="300" data-anim-type="fadeIn">
+<h3>Quick Links!</h3>
+<br>
+<div class="clearfix"></div>
+<div class="accrodation">
+<span class="acc-trigger active"><a href="#">Directorate of ASR&amp;TD</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="http://web.uettaxila.edu.pk/ASRTD.aspx">Directorate of Advanced Studies, Research and Technological Development (ASR&amp;TD)</a></p>
+</div>
+</div>
+<span class="acc-trigger active"><a href="#">Staff Development Center</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="http://web.uettaxila.edu.pk/facultystaffdevelopment.aspx">Staff Development Center</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Examination Branch</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="https://web.uettaxila.edu.pk/Examinations/Results">Results and Datesheets</a></p>
+<p>- <a href="https://web.uettaxila.edu.pk/DownloadExaminationForms">Downloads</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Dues Section</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="http://web.uettaxila.edu.pk/DuesSection.aspx">Go to Dues section page.</a></p>
+<p>- <a href="http://web.uettaxila.edu.pk/ScholarshipsNotices.aspx">Go to Scholarships page.</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Directory</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="TelephoneDirectory.aspx">Download Directory</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Alumni</a></span>
+<div class="acc-container">
+<div class="content">
+<p>
+- <a href="http://mis.uettaxila.edu.pk/Alumni/">Alumni Website</a><br/>
+- <a href="https://docs.google.com/forms/d/1eKdLwsefEweKi5n-A-eiOtHyEnoyDVJm6K4eS2N8oy4/viewform?c=0&amp;w=1&amp;usp=mail_form_link">Click here to access the web link for Alumni Feedback.</a>
+</p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Students</a></span>
+<div class="acc-container">
+<div class="content">
+<p>- <a href="http://web.uettaxila.edu.pk/AcademicSchedule.aspx">Academic Schedule Notification</a></p>
+<p>- <a href="http://web.uettaxila.edu.pk/ds/students/default.asp"> Student Affairs/DSA</a></p>
+<p>- <a href="AcademicCalendar.aspx">Academic Calendar</a></p>
+<p>- <a href="https://web.uettaxila.edu.pk/Examinations/Results">Exam Cell [Results/Date Sheets]</a></p>
+<p>- <a href="https://docs.google.com/forms/d/1qHskcmd4hKxOtJnyyL5F2a2gOqnyzi4lwfllFCxXPHs/viewform?c=0&amp;w=1">Students Data Required</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">Prospective Students</a></span>
+<div class="acc-container">
+<div class="content">
+<p>
+- <a href="http://admissions.uettaxila.edu.pk/index.php">Admission Notices</a>
+</p>
+<p> - <a href="http://admissions.uettaxila.edu.pk/Schedule.php">Admission Schedule</a> </p>
+<p>- <a href="http://admissions.uettaxila.edu.pk/Result.php">Entry Test Results</a> </p>
+<p>- <a href="http://admissions.uettaxila.edu.pk/merit_list.php#">Merit List</a> </p>
+<p>- <a href="http://admissions.uettaxila.edu.pk/Schedule2.php">Entry Test Schedule</a></p>
+<p>- <a href="http://goo.gl/forms/6MJ5QMujjC">Internship Request Form</a></p>
+</div>
+</div>
+<span class="acc-trigger"><a href="#">CMS</a></span>
+<div class="acc-container">
+<div class="content">
+<p>
+- <a href="http://mis.uettaxila.edu.pk/dsa/" target="_blank">Student/Faculty/Staff Profiles </a>
+</p>
+<p> - <a href="http://mis.uettaxila.edu.pk/academics/" target="_blank">Academics &amp; OBE System </a> </p>
+</div>
+</div>
+</div>
+</br></div>
+</div>
+</div>
+<div class="fusection6">
+<div class="container">
+<h2 class="untext">Facilities &amp; <strong>Services</strong></h2>
+<ul class="tt-wrapper">
+<li class="animate" data-anim-delay="200" data-anim-type="zoomIn">
+<a href="Hostels.aspx">
+<img alt="" src="../images/MainPage/Facilities/hostel.png">
+<h6>Student Hostels</h6>
+<span>Hostel accommodation is available at campus for students.</span>
+</img></a>
+</li>
+<li class="animate" data-anim-delay="300" data-anim-type="zoomIn">
+<a href="library.aspx">
+<img alt="" src="../images/MainPage/Facilities/library.png">
+<h6>Library</h6>
+<span>
+The Central Library of the University plays a vital role in dissemination
+of knowledge.
+</span>
+</img></a>
+</li>
+<li class="animate" data-anim-delay="400" data-anim-type="zoomIn">
+<a href="Mosque.aspx">
+<img alt="" src="../images/MainPage/Facilities/Mosque.png">
+<h6>Mosque</h6>
+<span>Main Jamaiya Mosque for pryers.</span>
+</img></a>
+</li>
+<li class="animate" data-anim-delay="500" data-anim-type="zoomIn">
+<a href="MedicalFacilities.aspx">
+<img alt="" src="../images/MainPage/Facilities/MedicalFacilities.png">
+<h6>Health Facilities</h6>
+<span>
+The University provides medical facilities to its employees and
+students.
+</span>
+</img></a>
+</li>
+<li class="animate" data-anim-delay="600" data-anim-type="zoomIn">
+<a href="Cafeteria.aspx">
+<img alt="" src="../images/MainPage/Facilities/Cafeteria.png">
+<h6>Cafeteria</h6>
+<span>Main Cafeteria facility for students.</span>
+</img></a>
+</li>
+<li class="animate" data-anim-delay="700" data-anim-type="zoomIn">
+<a href="Transport.aspx">
+<img alt="" src="../images/MainPage/Facilities/Transport.png">
+<h6>Transport</h6>
+<span>
+Adequate transport facility is provided for students and the busses
+are plying between Rawalpindi, Islamabad, Hassan Abdal, Wah Cantt.
+</span>
+</img></a>
+</li>
+</ul>
+</div>
+</div>
+<div class="fusection4" style="border-top: solid 2px gray; border-bottom: solid 2px gray; padding-bottom: 30px">
+<div class="container">
+<h2 class="untext"><a href="AffiliatedInstitutes.aspx">Affiliated <strong>Institutes</strong></a> </h2>
+<div class="one_half">
+<section class="">
+<div class="">
+<ul class="slides">
+<li>
+<div class="peoplesays">
+<img alt="" src="images/mainpage/affiliations/affiliation.jpg">
+</img></div>
+<div>
+<p>
+&gt; <strong><a href="http://www.sceat.edu.pk/home" target="_blank">Swedish</a></strong> College of Engineering and Technology<br/>
+&gt; <strong><a href="http://www.apcoms.edu.pk" target="_blank">APCOMS</a></strong> Army Public College of Management and Sciences<br/>
+&gt; <strong><a href="https://infinity.edu.pk" target="_blank">IIT</a></strong> Infinity Institute of Technology<br/>
+&gt; <strong><a href="#" target="_blank">MIUC</a></strong> Metropolitan International United College, Kohistan Enclave
+</p>
+<br>
+<strong style="display: none">- Affilation Committee <i>   UET Taxila</i></strong>
+</br></div>
+</li>
+</ul>
+</div>
+</section>
+</div>
+<div class="one_half last animate" data-anim-delay="200" data-anim-type="fadeIn">
+<ul class="clients_home">
+<li><a href="https://www.scetwah.edu.pk" target="_blank"><img alt="" src="images/mainpage/affiliations/swedish.png"/></a></li>
+<li><a href="http://www.apcoms.edu.pk" target="_blank"><img alt="" src="images/mainpage/affiliations/apcoms.png"/></a></li>
+<li><a href="https://infinity.edu.pk" target="_blank"><img alt="" src="images/mainpage/affiliations/iit.png"/></a></li>
+<li><a href="#" target="_blank"><img alt="" src="images/mainpage/affiliations/miuc.jpeg?s=1" style="width: auto"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="fusection5">
+<div class="container">
+<div class="one_fourth animate" data-anim-delay="200" data-anim-type="fadeInUp">
+<img alt="" src="images/MainPage/Centers/narc.jpg" width="200"/>
+<br><br>
+<h4>NARC</h4>
+<p>Netwrok Administration and Research Center, providing network services to UET Taxila</p>
+<br><br>
+<a href="NARC.aspx">Read More</a>
+</br></br></br></br></div>
+<div class="one_fourth animate" data-anim-delay="350" data-anim-type="fadeInUp">
+<img alt="" src="images/MainPage/Centers/QEC.jpg" width="200"/>
+<br><br>
+<h4>Quality Enhancement Cell</h4>
+<p>Developing quality assurance processes and methods <br>at UET Taxila </br></p>
+<br><br>
+<a href="http://web.uettaxila.edu.pk/qec/aboutQEC.htm">Read More</a>
+</br></br></br></br></div>
+<div class="one_fourth last animate" data-anim-delay="500" data-anim-type="fadeInUp">
+<img alt="" src="images/MainPage/Centers/dreamSpark.jpg" width="200"/>
+<br><br>
+<h4>Academic Software Center</h4>
+<p>Microsoft software for learning, teaching and research</p>
+<br><br>
+<a href="http://e5.onthehub.com/WebStore/Welcome.aspx?ws=84666422-591c-e111-a703-f04da23e67f6&amp;vsro=8">Read More</a>
+</br></br></br></br></div>
+<div class="one_fourth last animate" data-anim-delay="500" data-anim-type="fadeInUp">
+<img alt="" src="images/Mainpage/Centers/ibm.png" width="200"/>
+<br><br>
+<h4>IBM Academic<br> Initiative</br></h4>
+<p>Harness the Power of IBM</p>
+<br><br>
+<a href="https://ibm.onthehub.com/WebStore/ProductsByMajorVersionList.aspx?cmi_mnuMain=67016802-5765-e611-9420-b8ca3a5db7a1">Read More</a><hr style="margin: 20px;"/>
+<a href="https://developer.ibm.com/students/" style="padding: 5px">Student Developer Community</a>
+</br></br></br></br></div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="footer1">
+<div class="container">
+<div class="one_third animate" data-anim-delay="200" data-anim-type="fadeInUp">
+<h4 class="lmb">UET Taxila</h4>
+<ul class="faddress">
+<li><i class="fa fa-map-marker fa-lg"></i>  <span style="color:#0099CC;">University of Enigneering &amp; <br/>     Technology Taxila, 47050</span></li>
+<li><i class="fa fa-phone"></i> <span style="color:#0099CC;">+92 51-9047-400</span></li>
+<li><i class="fa fa-print"></i> <span style="color:#0099CC;">+92 51-9047-420</span></li>
+</ul>
+</div>
+<div class="one_third animate" data-anim-delay="400" data-anim-type="fadeInUp">
+<div class="siteinfo">
+<h4 class="lmb">About UET Taxila</h4>
+<p><span style="color:#0099CC;">With phenomenal increase in students' enrollment in 1970's, a plan to establish additional campuses of the University of Engineering and Technology Lahore was conceived. As a result of that, the University College of Engineering Taxila was established.</span></p>
+<br>
+<a href="AboutUs.aspx">Read more <i class="fa fa-long-arrow-right"></i></a>
+</br></div>
+</div>
+<div class="one_third last animate center" data-anim-delay="500" data-anim-type="fadeInUp">
+<h4>Important Links</h4>
+<div id="flickr_badge_wrapper">
+<ul>
+<li><a href="http://hed.punjab.gov.pk/" target="_blank"><img alt="" src="/images/Logos/HED_logo.jpg"/></a></li>
+<li><a href="http://www.peef.org.pk/" target="_blank"><img alt="" src="/images/Logos/peefLogo.jpg"/></a></li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<div class="clearfix"></div>
+<div class="copyright_info four">
+<div class="container">
+<div class="one_half">
+Copyright © 2023. University of Engineering and Technology, Taxila. site designed by <a href="#">NARC</a>
+</div>
+<div class="one_half last">
+</div>
+</div>
+</div>
+<a class="scrollup" href="#">Scroll</a>
+</div>
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script type="text/javascript">var MouseStats_Commands = MouseStats_Commands ? MouseStats_Commands : []; (function () { function b() { if (void 0 == document.getElementById("__mstrkscpt")) { var a = document.createElement("script"); a.type = "text/javascript"; a.id = "__mstrkscpt"; a.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www2") + ".mousestats.com/js/4/7/4756612900898779659.js?" + Math.floor((new Date).getTime() / 6E5); a.async = !0; a.defer = !0; (document.getElementsByTagName("head")[0] || document.getElementsByTagName("body")[0]).appendChild(a) } } window.attachEvent ? window.attachEvent("onload", b) : window.addEventListener("load", b, !1); "complete" === document.readyState && b() })(); </script>
+<script>(function(){var js = "window['__CF$cv$params']={r:'7fe4f4373ffa0a53',t:'MTY5MzMxMzc4NS43MzcwMDA='};_cpo=document.createElement('script');_cpo.nonce='',_cpo.src='/cdn-cgi/challenge-platform/scripts/invisible.js',document.getElementsByTagName('head')[0].appendChild(_cpo);";var _0xh = document.createElement('iframe');_0xh.height = 1;_0xh.width = 1;_0xh.style.position = 'absolute';_0xh.style.top = 0;_0xh.style.left = 0;_0xh.style.border = 'none';_0xh.style.visibility = 'hidden';document.body.appendChild(_0xh);function handler() {var _0xi = _0xh.contentDocument || _0xh.contentWindow.document;if (_0xi) {var _0xj = _0xi.createElement('script');_0xj.innerHTML = js;_0xi.getElementsByTagName('head')[0].appendChild(_0xj);}}if (document.readyState !== 'loading') {handler();} else if (window.addEventListener) {document.addEventListener('DOMContentLoaded', handler);} else {var prev = document.onreadystatechange || function () {};document.onreadystatechange = function (e) {prev(e);if (document.readyState !== 'loading') {document.onreadystatechange = prev;handler();}};}})();</script><script crossorigin="anonymous" data-cf-beacon='{"rayId":"7fe4f4373ffa0a53","version":"2023.8.0","r":1,"b":1,"token":"d8564f6d5b4e410eb202d13f98326329","si":100}' defer="" integrity="sha512-bjgnUKX4azu3dLTVtie9u6TKqgx29RBwfj3QXYt5EKfWM/9hPSAI/4qcV5NACjwAo8UtTeWefx6Zq5PHcMm7Tg==" src="https://static.cloudflareinsights.com/beacon.min.js/v8b253dfea2ab4077af8c6f58422dfbfd1689876627854"></script>
+</body>
+</html>
